@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1569613642 source:/home/williammcn/Documentos/gitworkspace/labirinto/Labirinto/labirinto_main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	"labirinto.h"
+
+1570666610 /home/williammcn/Documentos/gitworkspace/labirinto/Labirinto/labirinto.h
+	<vector>
+	<iostream>
+	<math.h>
+
+1570666590 source:/home/williammcn/Documentos/gitworkspace/labirinto/Labirinto/labirinto.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	<string>
+	<time.h>
+	<cmath>
+	<list>
+	<algorithm>
+	"labirinto.h"
+
